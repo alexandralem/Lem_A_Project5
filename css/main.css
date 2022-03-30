@@ -4,6 +4,9 @@ body {
     grid-gap: 20px;
 }
 
+.hidden {
+    display: none;
+}
 
 .box-model {
     background-color: #000; /*fix color*/
